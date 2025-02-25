@@ -1,9 +1,5 @@
  <h2 align="center">Hi 👋! My name is QoaHub and I'm a Junior Software Engineer from Huancayo, Perú</h2>
- <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNrdjl2d2NucjB3YzljaHpsODJoMGtsODR2NGpoYXdwcG1rb2FkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif"
-       alt="Banner GIF" 
-       width="100%" />
-</p>
+ 
  
 <h4 align="center">Clean code always looks like it was written by someone who cares." – Robert C. Martin</h4>
  
@@ -15,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU2MzZsaGpuNXAyYWJrNWdiOXY5cWsxaW45dzZvanJuZW43MXJ4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2KAGlmkPywhZS/giphy.gif"  />
+ 
 
 ###
 
