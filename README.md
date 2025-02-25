@@ -1,6 +1,6 @@
- <h2 align="left">Hi 👋! My name is QoaHub and I'm a Junior Software Engineer from Huancayo, Perú</h2>
-<"Clean code always looks like it was written by someone who cares." – Robert C. Martin
-###
+ <h2 align="center">Hi 👋! My name is QoaHub and I'm a Junior Software Engineer from Huancayo, Perú</h2>
+<h4 align="center">Clean code always looks like it was written by someone who cares." – Robert C. Martin</h4>
+ 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=QoaHub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU2MzZsaGpuNXAyYWJrNWdiOXY5cWsxaW45dzZvanJuZW43MXJ4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2KAGlmkPywhZS/giphy.gif"  />
 
 ###
 
@@ -43,6 +43,15 @@
   </a>
    <a href="https://orcid.org/0009-0000-9573-571X" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" height="35" alt="ORCID logo" />
+  </a>
+  <a href="cristhianpad@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" alt="Outlook logo" />
+  </a>
+  <a href="profile.php?id=100094454560332" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Facebook logo" />
+  </a>
+   <a href="https://www.instagram.com/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram logo" />
   </a>
 </div>
 
