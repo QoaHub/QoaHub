@@ -1,10 +1,12 @@
  <h2 align="center">Hi 👋! My name is QoaHub and I'm a Junior Software Engineer from Huancayo, Perú</h2>
  <picture>
+ 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
- 
+ Visitor count
+<img src="https://profile-counter.glitch.me/QoaHub/count.svg" />
 <h4 align="center">Clean code always looks like it was written by someone who cares." – Robert C. Martin</h4>
  
 
